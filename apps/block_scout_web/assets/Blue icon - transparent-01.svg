@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3042fb;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.2, SVG Export Plug-In . SVG Version: 1.2.0 Build 154)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="Layer_1-2" data-name="Layer_1">
+        <g>
+          <g id="triangle-group">
+            <polygon class="cls-1" points="712.6 1248.9 593 1456.1 1407 1456.1 1287.4 1248.9 712.6 1248.9"/>
+            <polygon class="cls-1" points="1000 751.1 880.4 543.9 473.4 1248.9 712.6 1248.9 1000 751.1"/>
+            <polygon class="cls-1" points="1287.4 1248.9 1526.6 1248.9 1119.6 543.9 1000 751.1 1287.4 1248.9"/>
+          </g>
+          <circle id="circle-shape" class="cls-1" cx="1000" cy="1083.8" r="129.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
